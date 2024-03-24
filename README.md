@@ -1,1 +1,5 @@
 # leetcode
+
+Easy:
+Medium:
+Hard:

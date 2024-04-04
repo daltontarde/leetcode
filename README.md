@@ -1,6 +1,6 @@
 # leetcode
+[![Leetcode Stats](https://leetcard.jacoblin.cool/datapips?theme=dark&font=Baloo%202&ext=activity)](https://leetcode.com/datapips)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={datapips}" alt="LeetCode Badges"/>
 
 Easy: <br>
 Medium: <br>
